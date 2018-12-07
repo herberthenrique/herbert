@@ -1,0 +1,19 @@
+{
+  "name": "herbert",
+  "version": "1.0.0",
+  "description": ":shrug:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/herberthenrique/herbert.git"
+  },
+  "author": "Herbert Henrique",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/herberthenrique/herbert/issues"
+  },
+  "homepage": "https://github.com/herberthenrique/herbert#readme"
+}
